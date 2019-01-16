@@ -12,27 +12,27 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>.ipa文件下载路径</string>
+            <string>http://www.u5chat.com/appdownload/u5live.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>display-image</string>
             <key>url</key>
-            <string>http://www.uugoto.net/appdownload/u5_logo_57.jpg</string>
+            <string>http://www.u5chat.com/appdownload/u5_logo.png</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>url</key>
-            <string>http://www.uugoto.net/appdownload/u5_logo_512.jpg</string>
+            <string>http://www.u5chat.com/appdownload/u5_logo.png</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>应用的bundle-identifier</string>
+          <string>com.liveapp.lekelive</string>
           <key>bundle-version</key>
-          <string>1.0.1</string>
+          <string>1.1</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
